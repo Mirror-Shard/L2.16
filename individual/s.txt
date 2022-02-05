@@ -1,0 +1,12 @@
+[
+   {
+      "name": "KKK k k",
+      "group": 20,
+      "average_estimation": 5.0
+   },
+   {
+      "name": "AAA a a",
+      "group": 19,
+      "average_estimation": 4.8
+   }
+]
